@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akamurasaki1
-- 👀 & 🌱 I’m interested in ...and I’m currently learning ...Python,HTML,Machine Learning,Image Processing
+- 👀 & 🌱 I’m interested in ...and I’m currently learning ...Python,HTML,Machine Learning,Linux,and shell script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... aka.akamu.akamurasaki0192@gmail.com
 - 😄 Pronouns: ...
